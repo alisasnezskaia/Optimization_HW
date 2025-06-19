@@ -10,9 +10,7 @@ This project explores and compares optimization techniques for semi-supervised b
 
 ## Problem Overview
 
-We address binary classification with limited labeled data, where the assumption is:
-
-> **"Similar features imply similar labels."**
+We address binary classification with limited labeled data
 
 ### Datasets Used:
 - **Synthetic dataset**: Two clusters, 10% labeled
